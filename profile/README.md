@@ -11,7 +11,7 @@ xx
 
 [Waypoint Pre-Print](https://www.biorxiv.org/content/10.64898/2026.05.02.722381v1)
 
-[GitHub](https://github.com/Outpost-Bio)
+[Hugging Face](https://huggingface.co/outpost-bio)
 
 [LinkedIn](https://www.linkedin.com/company/outpost-bio/)
 
