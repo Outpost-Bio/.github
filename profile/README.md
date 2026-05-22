@@ -3,15 +3,22 @@
 
 Outpost Bio Inc. (Delaware C-corp, VC-funded) builds foundation models pre-trained on the largest assembled human microbiome corpus. Our open-source models — Waypoint — are designed to be fine-tuned on your own data. Co-founded by Jenny Yang (CEO) and Alex Merwin (COO); ML team: Neythen Treloar, Saif Ur-Rehman.
 
-## Get started in 5 minutes
-```bash
-pip install waypoint-bio
-waypoint quickstart  # fine-tunes Waypoint-6m on a 10-sample demo
-```
+# Join our Community
 
-## Repositories
-📦 waypoint — model code, fine-tuning recipes, paper repro    📊 compass-bench — benchmark suite + leaderboard policy
-🧬 waypoint-data-prep — QIIME2/BIOM CLI, taxonomy remap    📓 waypoint-examples — notebooks per use case
+xx
 
-## Talk to us
-Builders: hi-from-github@outpost.bio  ·  Partnerships: collaborations@outpost.bio
+# Learn More
+
+[Waypoint Pre-Print](https://www.biorxiv.org/content/10.64898/2026.05.02.722381v1)
+
+[GitHub](https://github.com/Outpost-Bio)
+
+[LinkedIn](https://www.linkedin.com/company/outpost-bio/)
+
+[Website](https://www.outpost.bio/)
+
+# Say Hello
+
+Builders: hi-from-hugging-face@outpost.bio    Partnerships: collaborations@outpost.bio
+
+
