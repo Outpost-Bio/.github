@@ -5,10 +5,11 @@ Outpost Bio Inc. (Delaware C-corp, VC-funded) builds foundation models pre-train
 
 # Join our Community
 
-Join our [Slack Community](https://join.slack.com/t/outpostbio-waypoint/shared_invite/zt-3w6ivgtba-WJOCkdxiISxQpwVq9ZZxTA){:target="_blank"} community for support and discussion about microbiome foundation models.
+Join our [Slack Community](https://join.slack.com/t/outpostbio-waypoint/shared_invite/zt-3w6ivgtba-WJOCkdxiISxQpwVq9ZZxTA) community for support and discussion about microbiome foundation models.
 
 # Say Hello
 
-Builders: hi-from-hugging-face@outpost.bio    Partnerships: collaborations@outpost.bio
+Builders: hi-from-hugging-face@outpost.bio    
+Partnerships: collaborations@outpost.bio
 
 
