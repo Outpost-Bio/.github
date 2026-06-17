@@ -9,7 +9,7 @@ Join our [Slack Community](https://join.slack.com/t/outpostbio-waypoint/shared_i
 
 # Say Hello
 
-Builders: hi-from-hugging-face@outpost.bio    
+Builders: waypoint@outpost.bio    
 Partnerships: collaborations@outpost.bio
 
 
